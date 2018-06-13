@@ -18,8 +18,13 @@ h3 {
   font-size: 70px;
 }
 
+.landing h2{
+  font-size: 23px;
+}
+
 .landing ul{
   list-style-type: none;
+  display: inline;
 }
 
 .landing li {
@@ -28,5 +33,27 @@ h3 {
 
 .btn-nav {
   font-size: 18px;
+  color: white;
+}
+
+.supporting {
+  text-align: center;
+}
+
+.supporting h2 {
+  font-size: 32px;
+}
+
+.supporting h3 {
+  font-size: 23px;
+}
+
+.supporting p{
+  font-size: 14px;
+}
+
+footer{
+  background-color: dimgray;
+  font-size: 11px;
   color: white;
 }
